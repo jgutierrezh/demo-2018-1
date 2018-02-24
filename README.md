@@ -30,3 +30,7 @@ Este es otro texto. Ejemplo de código en Python
 Este es otro texto más.
 
 Haga click [aquí](https://www.google.com) para ir a google.
+
+## Sección 4
+
+Esta es una modificación.
